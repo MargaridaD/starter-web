@@ -17,3 +17,7 @@ Ths is a simple web project, deployment can be on any web server or even local f
 >>>>>>> 2057687e604faf30bfa37bb7745633be893b1c6d
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training.
