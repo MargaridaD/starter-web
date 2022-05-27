@@ -9,7 +9,11 @@ This example is to show different parts of the Git repository and various comman
 
 Sample website with plenty of files for Git traineng demos.
 
+<<<<<<< HEAD
 ##Deloyment
 Ths is a simple web project, deployment can be on any web server or even local file system...
+=======
+## Deployment
+>>>>>>> 2057687e604faf30bfa37bb7745633be893b1c6d
 
 ## How To Contribute
